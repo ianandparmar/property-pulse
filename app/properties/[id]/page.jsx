@@ -1,8 +1,10 @@
-import React from 'react'
+'use client';
 
 const PropertyPageID = () => {
   return (
-    <div>PropertyPageID</div>
+    <div>
+      <h1 className="text-3xl">PropertyPageID</h1>
+    </div>
   )
 }
 
