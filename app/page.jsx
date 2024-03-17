@@ -5,6 +5,6 @@ const HomePage = () => {
       <h1 className="text-3xl">Welcome to HomePage</h1>
       <Link href="/properties">Show properties</Link>
     </div>
-  )
-}
-export default HomePage
+  );
+};
+export default HomePage;

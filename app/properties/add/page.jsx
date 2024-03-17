@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const PropertyPageAdd = () => {
-  return (
-    <div>PropertyPageAdd</div>
-  )
-}
+  return <div>PropertyPageAdd</div>;
+};
 
-export default PropertyPageAdd
+export default PropertyPageAdd;
